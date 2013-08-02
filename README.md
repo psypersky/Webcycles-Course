@@ -1,4 +1,3 @@
-
 ## Lineamientos para la creación de capitulos:
 
 **Primer Slide**
@@ -9,6 +8,12 @@
 **Contenido**
 
 - 
+
+
+**Generales**
+
+- Para el contenido solo para el maestro usar _italica_
+
 
 
 Webcycle-Course
