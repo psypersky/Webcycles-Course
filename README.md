@@ -1,7 +1,17 @@
 
+## Lineamientos para la creación de capitulos:
 
-hhytuytuytut
-Webcyclet-Course
+**Primer Slide**
+
+- H1 para el titulo principal
+- H3 para especificar los contenidos del capitulo 
+
+**Contenido**
+
+- 
+
+
+Webcycle-Course
 ================
 
 
@@ -19,4 +29,3 @@ Atributos
 Comentarios
 Foto HTML, CSS book page: 21
 
- Hola mundo
