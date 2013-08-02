@@ -13,6 +13,8 @@
 **Generales**
 
 - Para el contenido solo para el maestro usar _italica_
+- Para separar los 'slides' usar linea horizontal ("___")
+
 
 
 
