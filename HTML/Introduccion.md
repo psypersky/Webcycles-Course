@@ -47,14 +47,47 @@ así como información extra que nos ayudará en la creación de nuestras págin
   * Navegadores
   * Servidores
   * Dispositivos
-  * Lectores de pantalla
+  * Lectores de pantalla *Tal vez no*
+
+##### *Navegadores*
+*Las personas accesamos a los sitios web desde un programa que se le llama navegador web, sea Firefox, Chrome, Safari, Opera*
+
+*Para ver una página el usuario escribe una dirección, sigue un link, o usa un marcador*
+
+*Los encargados del desarrollo del navegador liberan nuevas versiones con nuevas características y soporte de nuevas tecnologías. Es importante saber que muchas computadoras no estarán usando una versión actualizada de estos navegadores, por lo tanto, no puedes confiar que todos los visitantes a tu sitio puedan usar las últimas funcionalidades*
+
+##### *Web servers*
+*Cuando le pides a un navegador una página web, la petición es enviada a través de internet a una computadora especial conocida como servidor web, donde está alojada la página*
   
+##### *Dispositivos*
+*La gente puede accesar a la web desde diferentes dispositivos, computadoras de escritorio, laptops, celulares, tablets. Es importante recordar que estos dispositivos tienen diferentes resoluciones de pantalla*
+
+##### *Screen Readers*
+*No estoy seguro de ponerlo*
+
 --- 
 
 ### Como son creados los sitios web
 
- * Qué es lo que ves
+ * Lo que ves
  * Cómo está creado
  * HTML5 y CSS3
 
+##### Lo que ves
+*Cuando estás viendo un sitio es solo que tu navegador estará recibiendo HTML y CSS de un servidor web que aloja la página. El navegador interpreta el código para crear lo página que tu ves*
+
+*Algunos sitios usan Javascript o Flash, veremos como agregarlos, pero estas tecnologías son topicos más avanzados qué es mejor aprender una vez sabiendo HTML y CSS*
+
+##### Como se crea
+*Los sitios pequeños a veces se escriben solo en HTML y CSS. Los sitios grandes que son actualizados regularmente que usan un CMS, Herramientas de Blog, e-commerce; usan tecnologías más complejas en el servidor que son usadas para producir HTML y CSS que es enviado al navegador, si tu sitio usa estas tecnologías podrás tener más control de como luce con tus nuevos conocimientos de HTML y CSS*
+
+*Sitios más grandes, como estos, pueden usar una base de datos, MySQL, MongoDB y lenguajes de programación como Ruby, PHP en el servidor, pero no es necesario saber de estas tecnologías para poder cambiar lo que el usuario ve*
+
+##### HTML5 y CSS
+*Desde que la web fue creada ha habido varias versiones de HTML y CSS, cada una hecha para ser una mejora de la anterior.*
+
+*Hay funcionalidades de CSS3 y HTML5 que aun no son completamente soportadas por todos los navegadores, pero hay personas que ya las utilizan en sus sitios. Como HTML5 y CSS3 están hechas sobre las vesiones anteriores, aprender lo que hay, actualmente, es suficiente para poder entender lo que salga con las nuevas versiones*
+
 ---
+
+### DNS, IP *No estoy seguro*
