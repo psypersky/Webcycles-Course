@@ -37,5 +37,12 @@ ___
 
 ![alt text](http://i182.photobucket.com/albums/x102/psypersky/Webcycle/EstructuraOffice_zpsc81e9061.png "Logo Title Text 1")
 
-
 *La estructura de los documentos que hacemos en Word son muy similares a las estructuras que se utilizan en los documentos que utilizamos en la WEB*
+
+___
+
+##HTML Describe la estructura de las páginas
+
+
+![alt text](http://i182.photobucket.com/albums/x102/psypersky/Webcycle/code_example_zpsa7549ba1.png "Logo Title Text 1")
+
