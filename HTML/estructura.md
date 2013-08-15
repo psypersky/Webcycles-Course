@@ -44,5 +44,20 @@ ___
 ##HTML Describe la estructura de las páginas
 
 
-![alt text](http://i182.photobucket.com/albums/x102/psypersky/Webcycle/code_example_zpsa7549ba1.png "Logo Title Text 1")
+![alt text](http://i182.photobucket.com/albums/x102/psypersky/Webcycle/example_code_zps04506ac3.png "Logo Title Text 1")
+
+
+En una página web el contenido se describe con código, este es el codigo de la página web anterior 
+
+*El código HTML está echo de caracteres que se encuentran entre dos caracteres "<" y ">" estos son llamados elementos HTML, los elementos usualmente estan echos de una etiqueta para abrir y una para cerralo, la etiqueta que cierra el elemento contiene un slash antes del cierre*
+
+*Cada Etiqueta HTML le dice al navegador algo sobre la información que se encuentra dentro de ella*
+
+___
+
+##HTML usa elementos para describir la estructura de la páginas
+
+
+
+
 
